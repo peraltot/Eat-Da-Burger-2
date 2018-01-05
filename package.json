@@ -1,21 +1,29 @@
 {
-  "name": "eat-da-burger",
+  "name": "eat-da-burger-2",
   "version": "1.0.0",
-  "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
-  "main": "index.js",
+  "description": "A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/Materialize",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peraltot/Eat-Da-Burger.git"
+    "url": "git+https://github.com/peraltot/Eat-Da-Burger-2.git"
   },
+  "author": "Tom P",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peraltot/Eat-Da-Burger-2/issues"
+  },
+  "homepage": "https://github.com/peraltot/Eat-Da-Burger-2#readme",
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.7",
-    "mysql": "^2.13.0"
+    "method": "^2.0.0",
+    "method-override": "^2.3.10",
+    "my-sql": "^1.2.9",
+    "sql": "^0.78.0"
   }
 }
