@@ -27,7 +27,7 @@
  .burgerAvailable {
  	font-family: 'Crafty Girls', cursive;
  	font-weight: normal;
- 	font-size: 20px;
+ 	font-size: 15px;
  	text-align: center;
 
  	border-radius: 25px;
@@ -45,7 +45,7 @@
  .burgerEaten {
  	font-family: 'Crafty Girls', cursive;
  	font-weight: normal;
- 	font-size: 20px;
+ 	font-size: 15px;
  	text-align: center;
 
  	border-radius: 25px;
