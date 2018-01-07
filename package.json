@@ -2,7 +2,7 @@
   "name": "eat-da-burger-2",
   "version": "1.0.0",
   "description": "A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/Materialize",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
